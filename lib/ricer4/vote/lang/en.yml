@@ -1,0 +1,6 @@
+en:
+  ricer4:
+    extender:
+      vote_triggers:
+        err_vote: 'Your vote has not been counted!'
+        msg_voted: 'Vote registered.'
